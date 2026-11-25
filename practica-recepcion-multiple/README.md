@@ -44,8 +44,7 @@ practica-recepcion-multiple/
 2. Cargar `nodo/nodo.ino` en cada nodo, cambiando `ID_NODO` (1, 2, 3...) en cada placa. **No se puede repetir.**
 3. Abrir el Monitor Serie a **115200** baudios en la central para ver el estado de los nodos.
 
-## Equipo
-- Emiliano(s), Axel, Rita y Fernando
+
 
 ## Documentación
 El reporte completo está en `docs/`.
